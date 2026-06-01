@@ -17,8 +17,8 @@ b.	If false, print 'num' followed by " is Non-Zero"
  ```
 /*
 Program to implement a variable and operators using Java
-Developed by: Allen Johnston Ozario W
-RegisterNumber: 212224110004 
+Developed by: Gokul C
+RegisterNumber: 212223240040 
 */
 ```
 
