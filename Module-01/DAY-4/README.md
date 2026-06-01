@@ -40,8 +40,8 @@ To write a Java program to calculate and print the area of a circle by defining 
  ```
 /*
 Program to implement a variable and operators using Java
-Developed by: Allen Johnston Ozario W
-RegisterNumber: 212224110004  
+Developed by: Gokul C
+RegisterNumber: 212223240040
 */
 ```
 
